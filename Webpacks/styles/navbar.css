@@ -1,0 +1,40 @@
+#navbar {
+    font-family: arial;
+    height: 60px;
+    width: 100%;
+    padding: 0px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgba(33, 33, 33, 0.901);
+    font-size: 20px;
+    color: white;
+    box-sizing: border-box;
+}
+
+#navbar > div {
+    display: flex;
+    gap: 20px;
+    cursor: pointer;
+}
+
+#navbar > div > div:hover {
+    box-sizing: border-box;
+    color: rgb(255, 255, 40);
+}
+
+#logo {
+    font-weight: bold;
+    font-size: 24px;
+    color: rgb(0, 255, 234);
+}
+
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+    color: yellow;
+}

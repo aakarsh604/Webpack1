@@ -1,0 +1,14 @@
+body {
+    background-image: url("https://img.freepik.com/free-photo/grilled-meat-skewers-chicken-shish-kebab-with-zucchini-tomatoes-red-onions_2829-10942.jpg?size=626&ext=jpg&ga=GA1.2.1699109387.1651174116");
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-blend-mode: lighten;
+}
+
+#sub {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 100px;
+    color: white;
+    margin-top: 130px;
+    font-weight: bold;
+}
